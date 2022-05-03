@@ -51,13 +51,14 @@ Flask app developed here has 3 interfaces
 1. Welcome page
 A function is created for a welcome page.
 
-Screenshoot Welcome
+<img width="978" alt="welcome" src="https://user-images.githubusercontent.com/30193984/166443324-e074c5ae-45b7-497e-a1d8-9928a758a665.png">
+
 
 2. Prediction using get().
 
 A function is created for requesting the values of dependent features for prediction.
 
-Screenshoot prediction
+<img width="976" alt="get()" src="https://user-images.githubusercontent.com/30193984/166443398-3dd25c37-ca05-4279-8e12-5e6c11c18598.png">
 
 3. Prediction using Postman.
 
@@ -69,13 +70,15 @@ Both get() and post() method can be used in postman.
 
 Here the values will be passed as input same as the previous function but there will be a graphical user interface. 
 
-Screenshoot get()
+<img width="875" alt="postman get" src="https://user-images.githubusercontent.com/30193984/166443443-afc1fa85-efcb-4650-bca3-39ba44a11608.png">
+
 
 3.2. Using post().
 
 Here the test file will be given as output.
 
-Screenshoot post()
+<img width="873" alt="postman post" src="https://user-images.githubusercontent.com/30193984/166443469-8ecedf13-2e04-424d-8c17-767c6d7868a8.png">
+
 
 ## 3. Deployment using flask and flassger
 
