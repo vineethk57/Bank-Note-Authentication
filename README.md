@@ -82,7 +82,7 @@ Here the test file will be given as output.
 
 ## 3. Deployment using flask and flassger
 
-What is Flasgger?
+What is Flasgger?![flasgger](https://user-images.githubusercontent.com/30193984/166443667-ddef7747-6af6-46c5-8e8d-019c3e548fe1.png)
 
 Flasgger is a Flask extension to extract OpenAPI-Specification from all Flask views registered in your API.
 
@@ -98,18 +98,28 @@ Welcome screenshot
 
 UI for input
 
+<img width="1102" alt="Flassger get" src="https://user-images.githubusercontent.com/30193984/166443739-60febb2e-4fbc-457d-8c89-451f5f5e166d.png">
+
+
 UI for ouput
+
+<img width="1102" alt="Flassger get out" src="https://user-images.githubusercontent.com/30193984/166443807-2b2b6a74-a26d-43e8-b531-b9c1f766c291.png">
 
 
 2. Using post().
 
 UI for input
 
+<img width="1105" alt="Flassger post " src="https://user-images.githubusercontent.com/30193984/166443850-37049832-b8d3-4fe5-95f9-89337195fc00.png">
+
+
 UI for ouput
+
+<img width="1104" alt="Flassger post out" src="https://user-images.githubusercontent.com/30193984/166443874-f7066f4f-39e2-45e7-b6e0-6b9e8a583e47.png">
 
 ## 4. Deployment using dockers and flask
 
-What is Docker and why it is used?
+What is Docker and why it is used?![homepage-docker-logo](https://user-images.githubusercontent.com/30193984/166444178-592fecec-3fcd-46bd-af6e-36a7c89ce76a.png)
 
 Docker is an open source containerisation platform. It enables developers to package applications into containers—standardized executable components combining application source code with the operating system (OS) libraries and dependencies required to run that code in any environment.
 
