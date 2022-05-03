@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data
 
 Dataset can be used for Binary Classification sample problems
 
-Screenshot 1
+<img width="430" alt="1" src="https://user-images.githubusercontent.com/30193984/166441295-f472c8ae-97d9-4b4e-b9c9-09201866bc7e.png">
 
 Dataset contains 1372 rows × 5 columns, where class 1 represents authentic banknote and class 0 represents fake banknotes.
 
