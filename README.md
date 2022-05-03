@@ -157,19 +157,21 @@ streamlit
 ```bash
 docker build -t money_api .
 ```
-Screenshot 
+<img width="857" alt="Docker build" src="https://user-images.githubusercontent.com/30193984/166451574-006dde05-5dda-4bc9-90d4-00bdf8a0d3de.png">
+
 
 2.2. View created image
 ```bash
 docker ps
 ```
-Screenshot
+<img width="899" alt="Docker view" src="https://user-images.githubusercontent.com/30193984/166451661-d715249c-8fb8-4bfc-b710-f7bc14b25de1.png">
+
 
 3. Run the docker image
 ```bash
 docker run -p 8000:8000 money_api
-```
-Screenshot
+``` 
+<img width="876" alt="Docker run" src="https://user-images.githubusercontent.com/30193984/166451692-d2471b15-7c7e-4407-ad85-011e4cd454e8.png">
 
 Access it using the IP address in which the docker is configured.
 ```bash
@@ -178,7 +180,7 @@ Access it using the IP address in which the docker is configured.
 Screenshot
 
 ## 5. Deployment using Streamlit library
-What is the use of Streamlit?
+What is the use of Streamlit? ![1_u9U3YjxT9c9A1FIaDMonHw](https://user-images.githubusercontent.com/30193984/166455081-71b10354-c9fa-4270-b3d9-053d2b2de382.png)
 
 Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
 
@@ -188,7 +190,8 @@ Run app1.py using:
 ```bash
 streamlit run app1.py
 ```
-Screenshot
+<img width="654" alt="Streamlit run" src="https://user-images.githubusercontent.com/30193984/166455121-ffbe7c2c-1c3d-4cc8-86b8-7e529861fb9b.png">
 
-Screenshot
+<img width="631" alt="streamlit app" src="https://user-images.githubusercontent.com/30193984/166455184-b6164bbc-eb0e-4b7a-8042-be95336fe694.png">
+
 
