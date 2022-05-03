@@ -42,7 +42,8 @@ Also "classifier.pkl" contains the saved model.
 ## 2. Building a Flask app 
 
 What is Flask?
-<src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png">
+![flask-logo](https://user-images.githubusercontent.com/30193984/166443087-520880fd-3c6e-4e22-b368-ee58a8735dea.png)
+
 Flask is a micro web framework written in Python. It is classified as a micro-framework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 Flask app developed here has 3 interfaces
